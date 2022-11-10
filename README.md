@@ -10,3 +10,4 @@
    3. Inside `article`, create a `section` which will contain each slide.
    4. Create more slides by creating more `section`s inside `article`.
 3. Initialize the WebSlides object
+4. Add fontawesome CDN and Roboto Font
