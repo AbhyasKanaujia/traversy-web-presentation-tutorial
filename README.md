@@ -15,3 +15,4 @@
    - In a section add a `span.background` with style that sets the background image
 6. Add Content
    1. Create a `div.wrap`
+   
