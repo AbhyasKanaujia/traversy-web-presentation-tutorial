@@ -11,3 +11,7 @@
    4. Create more slides by creating more `section`s inside `article`.
 3. Initialize the WebSlides object
 4. Add fontawesome CDN and Roboto Font
+5. Add background image
+   - In a section add a `span.background` with style that sets the background image
+6. Add Content
+   1. Create a `div.wrap`
